@@ -1,0 +1,3 @@
+##Table 1: sales 
+The sales table captures all customer_id level purchases with a corresponding order date 
+and product_id information for when and what menu items were ordered. 
