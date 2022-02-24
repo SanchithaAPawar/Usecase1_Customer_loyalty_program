@@ -33,3 +33,4 @@ and product_id information for when and what menu items were ordered.
 ##Table 2: menu 
 The menu table maps the product_id to the actual product_name and price of each menu 
 item.
+![alt_text](https://github.com/SanchithaAPawar/Usecase1_Customer_loyalty_program/blob/main/menu.png?raw=true)
