@@ -38,5 +38,5 @@ item.
 Table 3: members 
 The final members table captures the join_date when a customer_id joined the beta version of
 the Danny’s Diner loyalty program.
-
+![alt_text](https://github.com/SanchithaAPawar/Usecase1_Customer_loyalty_program/blob/main/Data%20Sets/members.png?raw=true)
 ![alt_text](https://github.com/SanchithaAPawar/Usecase1_Customer_loyalty_program/blob/main/menu.png?raw=true)
