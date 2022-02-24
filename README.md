@@ -31,12 +31,18 @@ and product_id information for when and what menu items were ordered.
 ![alt_text](https://github.com/SanchithaAPawar/Usecase1_Customer_loyalty_program/blob/main/Data%20Sets/table.png?raw=true)
 
 ##Table 2: menu 
-The menu table maps the product_id to the actual product_name and price of each menu 
-item.
+The menu table maps the product_id to the actual product_name and price of each menu item.
 ![alt_text](https://github.com/SanchithaAPawar/Usecase1_Customer_loyalty_program/blob/main/Data%20Sets/menu.png?raw=true)
 
 Table 3: members 
-The final members table captures the join_date when a customer_id joined the beta version of
-the Danny’s Diner loyalty program.
+The final members table captures the join_date when a customer_id joined the beta version of the Danny’s Diner loyalty program.
 ![alt_text](https://github.com/SanchithaAPawar/Usecase1_Customer_loyalty_program/blob/main/Data%20Sets/members.png?raw=true)
-![alt_text](https://github.com/SanchithaAPawar/Usecase1_Customer_loyalty_program/blob/main/menu.png?raw=true)
+
+## Entity Relationship Diagram
+
+![alt_text](https://github.com/SanchithaAPawar/Usecase1_Customer_loyalty_program/blob/main/Data%20Sets/ER.png?raw=true)
+
+
+
+
+
